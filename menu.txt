@@ -1,0 +1,15 @@
+* Please Choose a Pizza Base:
+ 1: Classic Pizza
+ 2: Margherita Pizza
+ 3: Turkish Pizza
+ 4: Regular Pizza
+
+* and sauce of your choice:
+ 11: Olive
+ 12: Mushroom
+ 13: Goat Cheese
+ 14: Meat
+ 15: Onion
+ 16: Corn
+
+* Thank you!"
