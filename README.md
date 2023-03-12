@@ -1,0 +1,5 @@
+This program simulates ordering a pizza with various options. The program allows the user to select a pizza base and a sauce, and then calculates the cost of the pizza based on those choices. The program is implemented using object-oriented programming principles, with the Pizza class serving as the base class and the various pizza types and sauce options implemented as subclasses.
+
+The program begins by writing a menu to a text file, which is then read and printed to the console. The program then prompts the user to select a pizza base and a sauce, using a while loop to ensure that valid input is entered. Once the user has made both selections, the program calculates the cost of the pizza and prints out a summary of the order.
+
+The program uses the Decorator pattern to add sauce options to the pizza base. Each sauce option is implemented as a separate subclass of Decorator, which takes a Pizza object as its constructor argument. The cost and description of each sauce option are added to those of the Pizza object, using the get_cost and get_description methods.
